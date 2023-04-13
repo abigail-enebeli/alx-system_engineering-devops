@@ -1,4 +1,4 @@
 #!/bin/bash
 
-This script is switching current user to betty
+This script is for printing the username of current user 
 
